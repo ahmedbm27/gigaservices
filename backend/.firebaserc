@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "gigaservices-20c0b"
+  },
+  "targets": {
+    "gigaservices-20c0b": {
+      "hosting": {
+        "admin": [
+          "back-gigaservices"
+        ]
+      }
+    }
+  }
+}
